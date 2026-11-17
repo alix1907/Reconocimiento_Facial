@@ -1,0 +1,17 @@
+# Entorno virtual
+venv/
+
+# Caché de Python
+__pycache__/
+*.pyc
+
+# Datos personales (no subir al repositorio)
+fotos/
+
+# Archivos generados
+encodings.pkl
+asistencia.csv
+asistencia.xlsx
+
+# VS Code
+.vscode/
